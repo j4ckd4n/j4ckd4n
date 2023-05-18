@@ -1,4 +1,3 @@
-### Hello There! 👋
 ![hello_there](https://github.com/j4ckd4n/j4ckd4n/blob/main/hello-there.jpeg)
 
 ---
