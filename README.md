@@ -10,6 +10,7 @@
 > Huh, I think I could do better! Let me know if there are any projects that I could contribute!
 ![j4ckd4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=j4ckd4n&count_private=true&show_icons=true&theme=synthwave)
 
+### 👇 Checkout My Pinned Projects Below 👇
 
 <!--
 **j4ckd4n/j4ckd4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
