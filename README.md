@@ -8,7 +8,7 @@
 - I am interested in software and hardware R&D 🛠
 - I am currently _trying_ to work on the [SocPuppet](https://github.com/j4ckd4n/SocPuppet), a SOC Analysis tool based on [Sooty](https://github.com/TheresAFewConors/Sooty) 🧦
 - I love _most_ kinds of music ♪((ヽ(ᐛ)ﾉ))♬.
-- I primarily code in Python however trying to learn Go and Rust on the side with some C programming for hardware 👨‍💻
+- I primarily code in Python however trying to learn Rust on the side with some C programming for hardware 👨‍💻
 
 ---
 ### Repo Info
